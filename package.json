@@ -1,0 +1,16 @@
+{
+  "name": "brain-windows-bridge",
+  "version": "0.1.0",
+  "description": "Neural Link — Phase 6 native Windows companion bridge. Localhost-only, read-only, token-paired. Run this on your own PC to unlock full hardware/OS/process/software/file data in the Brain PWA.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "systeminformation": "^5.23.5"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
